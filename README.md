@@ -1,2 +1,2 @@
-nerdlun.ch.github.com
+nerdlunch.github.com
 =====================
