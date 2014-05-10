@@ -1,36 +1,23 @@
 
-:date: 2012-03-15
+:date: 2014-05-10
 :title: About
 
-The GoOSe Project creates a Linux distribution of a Prominent North American Enterprise Linux Vendor. They object to being referred to by name in the context of clones and ports of their distribution. GoOSe Linux is similar to CentOS and Scientific Linux in form, thus should make it clear upon what Upstream version it is based.
+Welcome to http://NerdLun.ch, the place to find out about cool nerdy and
+geeky lunch events in your town. Nerd Lunch is here to help create,
+organize and find lunch events for any nerdy or geeky interest.
 
-GoOSe Linux, the resulting distribution, is the result of the hard work of many individuals worldwide who have given their time and talent to open source. The GoOSe Project aims to provide the best of breed Enterprise Linux Rebuild along with the best documentation and community support. We believe that a good Linux distribution starts first with an excellent community.
+Attend a Nerd Lunch
+-------------------
 
-Ethos
------
+On the `main page <http://nerdlun.ch/>`_ is a list of cities that are
+currently holding a regular Nerd Lunch. We check this list periodically
+to ensure it's as accurate as possible. If you are interested in attending,
+click the link, join the mailing list or view the calendar to find the 
+latest on the Nerd Lunch near you!
 
-At the GoOSe Project we believe in building a community around the process of building Enterprise Linux from scratch. Our end goal is to provide a system that is not only reproducible by others, but also built by the many hands of friends. Read more about our ethos `here <https://github.com/gooseproject/main/wiki/gooseproject_ethos>`_
-
-The GoOSe Project is different from CentOS and Scientific Linux in a few ways, though some of the results are the same. The GoOSe project focuses on the following aspects:
-
-  * Building a sustainable and lasting community of users ***and*** contributors
-  * A documentation project which is targeted at explaining the entire process of rebuilding Enterprise Linux
-  * As a result of the goals above, The GoOSe Projects produces a free and open source Enterprise Linux Rebuild (EL Rebuild), appropriately named 'GoOSe Linux'
-
-
-Recently there has been a question about a similar project, AscendOS, and GoOSe. While both projects believe that it is important to create communities to build an Enterprise Linux system, at this time both projects are separate, but communicative of issues and goals.
-
-Download the Latest Build
+Make Your Own Nerd Lunch
 -------------------------
 
-The latest (and first) release of GoOSe Linux is currently 6.0 and in the Final testing phase. It can be downloaded at `http://get.gooseproject.org <http://get.gooseproject.org/>`_. A mirror list is in the works as well, so watch for that in the near future. Additional download options can be found at our `downloads <downloads.html>`_ page.
-
-Read the Documentation
-----------------------
-
-Currently available is the draft documentation entitled, 'How to Cook a GoOSe'. This document will eventually cover the front-to-back of how to rebuild Enterprise Linux. Additional documentation is available on the GoOSe Project wiki at github. Here are a few highlights and ideas.
-
-  * `README <https://github.com/gooseproject/main/blob/master/README.rst>`_
-  * `How to Cook A GoOSe (front-to-back rebuild documentation) <https://github.com/gooseproject/main/wiki/How-to-Cook-A-GoOSe>`_
-
-
+To make your own Nerd Lunch, just fork this site and add your page. We use
+`Pelican <http://getpelican.com/>`_ to generate the site, so it's easy to
+use. More information is available `here <pages/create_a_lunch>`_.

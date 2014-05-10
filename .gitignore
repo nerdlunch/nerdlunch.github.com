@@ -4,3 +4,4 @@ logs/
 _site/
 .*sw*
 *.py[oc]
+output
