@@ -3,20 +3,21 @@
 
 AUTHOR = u'herlo'
 SITENAME = u'NerdLun.ch - A Community of Nerdy Lunchers'
-SITEURL = ''
+SITEURL = 'http://localhost:8000'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Denver'
+
+#THEME = 'src/themes/chunk'
 
 DEFAULT_LANG = u'en'
 
 # Blogroll
-LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-          ('Python.org', 'http://python.org'),
-          ('Jinja2', 'http://jinja.pocoo.org'),
-          ('You can modify those links in your config file', '#'),)
+#LINKS =  (  ('Utah Open Source', 'http://utos.org'),
+#            ('Geek Easy', 'http://geekeasy.net'),
+#          )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'http://twitter.com/nerdlunch'),
+          )
 
 DEFAULT_PAGINATION = 10
