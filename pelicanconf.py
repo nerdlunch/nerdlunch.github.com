@@ -3,7 +3,7 @@
 
 AUTHOR = u'herlo'
 SITENAME = u'NerdLun.ch - A Community of Nerdy Lunchers'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://nerdlun.ch'
 
 TIMEZONE = 'America/Denver'
 
