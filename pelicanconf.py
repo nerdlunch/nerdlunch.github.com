@@ -3,11 +3,11 @@
 
 AUTHOR = u'herlo'
 SITENAME = u'Nerdy Lunch Everywhere!'
-SITEURL = 'http://nerdlun.ch'
+SITEURL = 'http://localhost:8000'
 
 TIMEZONE = 'America/Denver'
 
-#THEME = 'src/themes/chunk'
+THEME = 'src/themes/fresh'
 
 DEFAULT_LANG = u'en'
 
