@@ -7,8 +7,8 @@
 Upcoming Nerd Lunches
 ---------------------
 
- * June 12, 2014 - `Cafe Zupas (Layton, Utah) <https://groups.google.com/forum/#!topic/slc_nerd_lunch/1RZncu8Zzgg>`_.
- * June 27, 2014 - `Moochies Meatballs (Midvale, Utah) <https://groups.google.com/forum/#!topic/slc_nerd_lunch/N7Y91KUb-EM>`_.
+ * June 12, 2014 - `Cafe Zupas (Layton, Utah) <https://groups.google.com/forum/#!topic/slc_nerd_lunch/1RZncu8Zzgg>`_ @ 11:30.
+ * June 27, 2014 - `Moochies Meatballs (Midvale, Utah) <https://groups.google.com/forum/#!topic/slc_nerd_lunch/N7Y91KUb-EM>`_ @ 11:45.
 
 Want to add your event? Send us `an email <mailto:herlo@nerdlun.ch>`_.
 
