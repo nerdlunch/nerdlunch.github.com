@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u'herlo'
-SITENAME = u'NerdLun.ch - A Community of Nerdy Lunchers'
+SITENAME = u'Nerdy Lunch Everywhere!'
 SITEURL = 'http://nerdlun.ch'
 
 TIMEZONE = 'America/Denver'
@@ -12,12 +12,12 @@ TIMEZONE = 'America/Denver'
 DEFAULT_LANG = u'en'
 
 # Blogroll
-#LINKS =  (  ('Utah Open Source', 'http://utos.org'),
 #            ('Geek Easy', 'http://geekeasy.net'),
-#          )
+LINKS =  (  ('Utah Open Source', 'http://utos.org'),
+          )
 
 # Social widget
-SOCIAL = (('Twitter', 'http://twitter.com/nerdlunch'),
+SOCIAL = (('Twitter', 'http://twitter.com/nerd_lunch'),
           )
 
 DEFAULT_PAGINATION = 10
