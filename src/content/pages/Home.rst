@@ -4,15 +4,11 @@
 :save_as: index.html
 
 
-Welcome to http://NerdLun.ch, the place to find out about cool nerdy and
-geeky lunch events in your town. Nerd Lunch is here to help create,
-organize and find lunch events for any nerdy or geeky interest.
+Upcoming Nerd Lunches
+---------------------
 
-Attend a Nerd Lunch
--------------------
+ * June 12, 2014 - `Cafe Zupas (Layton, Utah) <https://groups.google.com/forum/#!topic/slc_nerd_lunch/1RZncu8Zzgg>`_.
+ * June 27, 2014 - `Moochies Meatballs (Midvale, Utah) <https://groups.google.com/forum/#!topic/slc_nerd_lunch/N7Y91KUb-EM>`_.
 
-On the `main page <http://nerdlun.ch/>`_ is a list of cities that are
-currently holding a regular Nerd Lunch. We check this list periodically
-to ensure it's as accurate as possible. If you are interested in attending,
-click the link, join the mailing list or view the calendar to find the 
-latest on the Nerd Lunch near you!
+Want to add your event? Send us `an email <mailto:herlo@nerdlun.ch>`_.
+
