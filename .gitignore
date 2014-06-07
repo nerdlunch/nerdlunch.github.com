@@ -5,3 +5,4 @@ _site/
 .*sw*
 *.py[oc]
 output
+*.pid
